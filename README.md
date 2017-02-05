@@ -6,7 +6,7 @@ Sources:
 		
 		
 ###Overview
-Small demo of using the gamepad API to use a game controller with the browser, simply highlight pressed & released buttons
+Small demo of using the gamepad API to use a game controller with the browser, simply highlighting pressed & released buttons
 
 A demo can be found [here](http://antohayden.com/gamepadapidemo)
 
