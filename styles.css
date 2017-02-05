@@ -1,0 +1,127 @@
+
+#controllerContainer{
+    width: 901px;
+    height: 501px;
+    position: absolute;
+    margin: auto;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+    background-image: url("images/controller.PNG");
+    background-size: contain;
+}
+
+.positionPointer{
+    opacity: 0;
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background-color: #F00;
+    border-radius: 50%;
+    animation: pulse 300ms alternate;
+    animation-timing-function: ease-out;
+    animation-iteration-count: 2;
+    transform: translate(-50%, -50%);
+}
+
+.stickPointer{
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    background-color: #00F;
+    border-radius: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.button0{
+    top: 300px;
+    left: 723px;
+}
+
+.button1{
+    top: 235px;
+    left: 790px;
+}
+
+.button2{
+    top: 232px;
+    left: 658px;
+}
+
+.button3{
+    top: 167px;
+    left: 723px;
+}
+
+.button4{
+    top: 80px;
+    left: 192px;
+}
+
+.button5{
+    top: 80px;
+    left: 723px;
+}
+
+.button6{
+    top: 45px;
+    left: 192px;
+}
+
+.button7{
+    top: 45px;
+    left: 725px;
+}
+
+.button8{
+    top: 250px;
+    left: 398px;
+}
+
+.button9{
+    top: 250px;
+    left: 514px;
+}
+
+.button10{
+    top: 353px;
+    left: 328px;
+}
+
+.button11{
+    top: 353px;
+    left: 588px;
+}
+
+.button12{
+    top: 150px;
+    left: 193px;
+}
+
+.button13{
+    top: 310px;
+    left: 193px;
+}
+
+.button14{
+    top: 230px;
+    left: 110px;
+}
+
+.button15{
+    top: 230px;
+    left: 275px;
+}
+
+.button16{
+    top: 179px;
+    left: 455px;
+}
+
+@keyframes pulse{
+    0%{width: 20px; height: 20px; opacity: 0}
+    100%{width: 50px; height: 50px; opacity: 1}
+}
+

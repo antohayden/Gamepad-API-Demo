@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/node_modules/grunt/node_modules/grunt-legacy-util/node_modules/hooker/dist/ba-hooker.min.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/grunt/node_modules/grunt-legacy-util/node_modules/async/dist/async.min.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/grunt/node_modules/js-yaml/dist/js-yaml.min.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/grunt/node_modules/grunt-legacy-log/node_modules/hooker/dist/ba-hooker.min.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/grunt/node_modules/grunt-legacy-util/node_modules/underscore.string/dist/underscore.string.min.js" />
+        <item url="file://$PROJECT_DIR$/node_modules/grunt/node_modules/grunt-legacy-log/node_modules/underscore.string/dist/underscore.string.min.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/node_modules/grunt/node_modules/grunt-legacy-util/node_modules/hooker/dist/ba-hooker.min.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/grunt/node_modules/grunt-legacy-util/node_modules/async/dist/async.min.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/grunt/node_modules/js-yaml/dist/js-yaml.min.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/grunt/node_modules/grunt-legacy-log/node_modules/hooker/dist/ba-hooker.min.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/grunt/node_modules/grunt-legacy-util/node_modules/underscore.string/dist/underscore.string.min.js" />
+      <root url="file://$PROJECT_DIR$/node_modules/grunt/node_modules/grunt-legacy-log/node_modules/underscore.string/dist/underscore.string.min.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
